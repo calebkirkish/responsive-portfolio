@@ -1,8 +1,7 @@
 header {
 text-align: center;
-color: blue;
-background-color: chartreuse;
-column-span: all;
+color: whitesmoke;
+font-family: Georgia, 'Times New Roman', Times, serif;
 font-weight: bold;
 }
 
@@ -10,3 +9,7 @@ header h1 {
     font-size: 48px;
 }
 
+.card-img-top {
+    height: 300px;
+    width: 250px;
+}
