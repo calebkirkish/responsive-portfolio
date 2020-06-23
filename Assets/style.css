@@ -4,7 +4,9 @@ color: whitesmoke;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-weight: bold;
 }
-
+body {
+    background-color: rgb(60, 3, 114);
+}
 header h1 {
     font-size: 48px;
 }
@@ -12,4 +14,20 @@ header h1 {
 .card-img-top {
     height: 300px;
     width: 250px;
+}
+
+a.nav-item.nav-link.header-links {
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-right {
+    justify-content: flex-end;
+}
+
+.container {
+    background-color: rgba(216, 223, 118, 0.822);
+    margin-top: 2rem;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
