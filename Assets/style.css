@@ -28,6 +28,11 @@ a.nav-item.nav-link.header-links {
 .container {
     background-color: rgba(216, 223, 118, 0.822);
     margin-top: 2rem;
-    height: 100vh;
+    height: 100%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.portfolio-img {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px
 }
