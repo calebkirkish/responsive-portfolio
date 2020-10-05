@@ -36,3 +36,7 @@ a.nav-item.nav-link.header-links {
     justify-content: space-evenly;
     padding: 10px
 }
+
+.portfolio-text {
+    text-align: center;
+}
