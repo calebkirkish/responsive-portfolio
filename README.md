@@ -1,5 +1,7 @@
 # responsive-portfolio
 
+link to my portfolio is here: https://calebkirkish.github.io/responsive-portfolio/portfolio.html
+
 This is a First attempt at creating a website from scratch using some of the tools from bootstrap to help add some very nice looking buttons, images, and styling techniques from all rthe different components that make a website look nice. I like that you can use Bootstrap to create a web page that looks just as professional as another website. there is definitely a lot to learn when it comes to using bootstrap but it is very effective to learn when playing with your own websites and trying to show off your skills. 
 
 ## HOME
